@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1f45e112a57d17f737dc",
+    "revision": "e57e079889d37732b1eb",
     "url": "/static/css/main.61de1688.chunk.css"
   },
   {
-    "revision": "1f45e112a57d17f737dc",
-    "url": "/static/js/main.1f45e112.chunk.js"
+    "revision": "e57e079889d37732b1eb",
+    "url": "/static/js/main.e57e0798.chunk.js"
   },
   {
     "revision": "325ca37fb911515c36cd",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/static/media/ChineseDragon.523f052e.ttf"
   },
   {
-    "revision": "2dc88fbc0b6437ebceca4c8eab27f59e",
+    "revision": "584c5ca5b2e735891c495dd535cb4c6b",
     "url": "/index.html"
   }
 ];
