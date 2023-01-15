@@ -14,12 +14,12 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <SideNav />
-    <Navbar />
-    <Title />
+    {/* <SideNav /> */}
+    {/* <Navbar /> */}
+    {/* <Title />
     <News />
     <Gallery />
-    <MapFrame />
+    <MapFrame /> */}
     <Footer />
   </React.StrictMode>
 );
