@@ -1,26 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Navbar from './Navbar'
-import Title from './Title'
-import News from './News';
-import Gallery from './Gallery'
-import MapFrame from './MapFrame';
-import Footer from './Footer';
-import SideNav from './SideNav';
 import reportWebVitals from './reportWebVitals';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <SideNav /> */}
-    {/* <Navbar /> */}
-    {/* <Title />
-    <News />
-    <Gallery />
-    <MapFrame /> */}
-    <Footer />
+    <h1>Asia wok bistro</h1>
   </React.StrictMode>
 );
 
