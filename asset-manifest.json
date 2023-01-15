@@ -1,15 +1,15 @@
 {
-  "main.css": "/Triendster/asia-wok-bistro/static/css/main.14992717.chunk.css",
-  "main.js": "/Triendster/asia-wok-bistro/static/js/main.6b90a863.chunk.js",
-  "main.js.map": "/Triendster/asia-wok-bistro/static/js/main.6b90a863.chunk.js.map",
-  "static/js/1.521dee7d.chunk.js": "/Triendster/asia-wok-bistro/static/js/1.521dee7d.chunk.js",
-  "static/js/1.521dee7d.chunk.js.map": "/Triendster/asia-wok-bistro/static/js/1.521dee7d.chunk.js.map",
-  "static/js/2.7d894647.chunk.js": "/Triendster/asia-wok-bistro/static/js/2.7d894647.chunk.js",
-  "static/js/2.7d894647.chunk.js.map": "/Triendster/asia-wok-bistro/static/js/2.7d894647.chunk.js.map",
-  "runtime~main.js": "/Triendster/asia-wok-bistro/static/js/runtime~main.ee7e52e9.js",
-  "runtime~main.js.map": "/Triendster/asia-wok-bistro/static/js/runtime~main.ee7e52e9.js.map",
-  "static/css/main.14992717.chunk.css.map": "/Triendster/asia-wok-bistro/static/css/main.14992717.chunk.css.map",
-  "index.html": "/Triendster/asia-wok-bistro/index.html",
-  "precache-manifest.ff3714ef292ff4fb4e43b39e27afb347.js": "/Triendster/asia-wok-bistro/precache-manifest.ff3714ef292ff4fb4e43b39e27afb347.js",
-  "service-worker.js": "/Triendster/asia-wok-bistro/service-worker.js"
+  "main.css": "/asia-wok-bistro/static/css/main.14992717.chunk.css",
+  "main.js": "/asia-wok-bistro/static/js/main.6b90a863.chunk.js",
+  "main.js.map": "/asia-wok-bistro/static/js/main.6b90a863.chunk.js.map",
+  "static/js/1.521dee7d.chunk.js": "/asia-wok-bistro/static/js/1.521dee7d.chunk.js",
+  "static/js/1.521dee7d.chunk.js.map": "/asia-wok-bistro/static/js/1.521dee7d.chunk.js.map",
+  "static/js/2.7d894647.chunk.js": "/asia-wok-bistro/static/js/2.7d894647.chunk.js",
+  "static/js/2.7d894647.chunk.js.map": "/asia-wok-bistro/static/js/2.7d894647.chunk.js.map",
+  "runtime~main.js": "/asia-wok-bistro/static/js/runtime~main.76818d8e.js",
+  "runtime~main.js.map": "/asia-wok-bistro/static/js/runtime~main.76818d8e.js.map",
+  "static/css/main.14992717.chunk.css.map": "/asia-wok-bistro/static/css/main.14992717.chunk.css.map",
+  "index.html": "/asia-wok-bistro/index.html",
+  "precache-manifest.d5884c20fb719c17fc5baa83f156cafe.js": "/asia-wok-bistro/precache-manifest.d5884c20fb719c17fc5baa83f156cafe.js",
+  "service-worker.js": "/asia-wok-bistro/service-worker.js"
 }

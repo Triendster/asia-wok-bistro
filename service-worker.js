@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Triendster/asia-wok-bistro/precache-manifest.ff3714ef292ff4fb4e43b39e27afb347.js"
+  "/asia-wok-bistro/precache-manifest.d5884c20fb719c17fc5baa83f156cafe.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Triendster/asia-wok-bistro/index.html", {
+workbox.routing.registerNavigationRoute("/asia-wok-bistro/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
