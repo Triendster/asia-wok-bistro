@@ -1,0 +1,128 @@
+@font-face {
+    font-family: chinese-dragon;
+    src: url('./fonts/ChineseDragon.ttf');
+ }
+
+ul {
+    list-style : none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li {
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+}
+.header-normal {
+    width: 100%;
+    height:60px;
+    position: fixed;
+    background-color:transparent;
+    transition: all 0.1s ease;
+    z-index: 3;
+}
+
+.header-scrolled {
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    background-color:black;
+    z-index: 3;
+    transition: all 0.1s ease;
+}
+
+.navbar-container {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: inherit;
+}
+
+.navbar-container-logo {
+    display:flex;
+    padding-left: 25px;
+    margin:0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-container-logo--ref {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-container-logo--logo {
+    font-family: chinese-dragon;
+    color:yellow;
+    font-size: 30px;
+}
+
+.navbar-container-logo--logo:hover {
+    color:orange;
+}
+
+.navbar-container-logo--description {
+    color:white;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.navbar-container-menuitems {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 3vw;
+}
+
+.navbar-container-menuitems--links {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    background-image: linear-gradient(#ffffff, #ffffff);
+    background-size: 0% 0.1em;
+    background-position-y: 100%;
+    background-position-x: 0%;
+    background-repeat: no-repeat;
+    transition: background-size 0.2s ease-in-out;
+}
+
+.navbar-container-menuitems--links:hover {
+    background-size: 100% 0.1em;
+}
+
+.navbar-container-menuitems--links:active {
+    text-decoration: underline;
+}
+
+
+@media screen and (min-width : 2000px) {
+    .header-normal {
+        height: 6vh;
+    }
+    .header-scrolled {
+        height: 6vh;
+    }
+
+    .navbar-container-logo{
+        padding-left: 1vw;
+    }
+
+    .navbar-container-logo--logo {
+        font-size: 1.6vw;
+    }
+    .navbar-container-logo--description{
+        font-size: 0.9vw;
+        padding-left: 1vw;
+    }
+
+    .navbar-container-menuitems--links {
+        font-size: 1vw;
+    }
+
+    li {
+        padding: 0 1vw;
+    }
+} 

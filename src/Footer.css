@@ -1,0 +1,138 @@
+.footer-container {
+    background-color: black;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    overflow: hidden;
+}
+
+.footer-container-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 70%;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.footer-content-links li {
+    display: flex;
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.footer-content-links li a {
+    color: white;
+    font-size: 20px;
+}
+
+.footer-content-button {
+    border: none;
+    color: white;
+    background: none;
+    text-decoration: underline;
+    font-size: 1.5vw;
+}
+
+.modal-container {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(32, 32, 32);
+}
+
+.ReactModal__Overlay--after-open {
+    z-index: 3;
+}
+
+.modal-close {
+    width: 100%;
+    height: 10%;
+    background-color: black;
+    display: flex;
+}
+
+.modal-close__empty {
+    width: 80%;
+    height: 100%;
+}
+
+.modal-close__symbols {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-close__symbols__close {
+    background-color: red;
+    border-radius: 50%;
+    width: 1vw;
+    height: 1vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-close__symbols__button {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.modal-close__symbols__button:hover {
+    background-color: rgb(255, 62, 62);
+}
+
+.modal-content {
+    width: 100%;
+    height: 90%;
+}
+
+.modal-content__title {
+    color: white;
+    padding-left: 1vw;
+    padding-top: 1vw;
+    padding-bottom: 3vw;
+    font-size: 3vw;
+}
+
+.modal-content__info {
+    color: white;
+    padding-left: 1vw;
+    padding-top: 1vw;
+    font-size: 2vw;
+}
+
+@media screen and (max-width : 1000px) {
+    .footer-content-links li a {
+        font-size: 3vw;
+    }
+    .footer-content-links li {
+        flex-basis: auto;
+        flex-grow: auto;
+    }
+}
+
+@media screen and (min-width : 2000px) {
+    .footer-content-links li a {
+        font-size: 1vw;
+    }
+    .footer-content-links li {
+        flex-basis: auto;
+        flex-grow: auto;
+    }
+}
