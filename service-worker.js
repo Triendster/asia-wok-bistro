@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Triendster/asia-wok-bistro/precache-manifest.28829fdf994c68a57aa0031ee67180b6.js"
+  "/Triendster/asia-wok-bistro/precache-manifest.ff3714ef292ff4fb4e43b39e27afb347.js"
 );
 
 workbox.clientsClaim();
