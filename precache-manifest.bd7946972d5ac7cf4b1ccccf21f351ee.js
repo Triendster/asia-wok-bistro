@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cd87d754023643d66e9d",
+    "revision": "e41e43470d681c671ae9",
     "url": "/asia-wok-bistro/static/css/main.71712c7a.chunk.css"
   },
   {
-    "revision": "cd87d754023643d66e9d",
-    "url": "/asia-wok-bistro/static/js/main.cd87d754.chunk.js"
+    "revision": "e41e43470d681c671ae9",
+    "url": "/asia-wok-bistro/static/js/main.e41e4347.chunk.js"
   },
   {
     "revision": "325ca37fb911515c36cd",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/asia-wok-bistro/static/media/ChineseDragon.523f052e.ttf"
   },
   {
-    "revision": "c0bfd445665f52e41dde01d9f6282e55",
+    "revision": "44cc17579e2546cfd2e097a52eafc450",
     "url": "/asia-wok-bistro/index.html"
   }
 ];
