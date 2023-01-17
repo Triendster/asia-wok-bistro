@@ -3,7 +3,7 @@ import card from './docs/speisekarte.pdf'
 export const MenuItems = [
     {
         title: 'Home',
-        href: './',
+        href: 'https://triendster.github.io/asia-wok-bistro/',
         target: '',
         className: 'navbar-container-menuitems--links',
         cNameDD: 'dropdown-menulinks'

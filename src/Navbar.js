@@ -24,7 +24,7 @@ function Navbar() {
     <header className={(scrollPosition >  0 || isDropDownClicked) ? 'header-scrolled' : 'header-normal'}>
       <div className='navbar-container'>
         <div className='navbar-container-logo'>
-          <a href='./' className='navbar-container-logo--ref'>
+          <a href='https://triendster.github.io/asia-wok-bistro/' className='navbar-container-logo--ref'>
           <div className='navbar-container-logo--logo'>
             ASIA-WOK-BISTRO
           </div>
