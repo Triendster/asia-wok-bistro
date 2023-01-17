@@ -1,6 +1,6 @@
 # Anfänge mit Create-React-App und Next.js
 
-Dieses Projekt wurde mit [Create React App] (https://github.com/facebook/create-react-app) und [Next.js] (https://nextjs.org/) erstellt
+Dieses Projekt wurde mit [Create React App](https://github.com/facebook/create-react-app) und [Next.js](https://nextjs.org/) erstellt
 
 ## Dieses Projekt dient lediglich als Broschüre für Asia-Wok-Bistro
 
